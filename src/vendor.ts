@@ -1,3 +1,6 @@
+import 'intl';
+import 'intl/locale-data/jsonp/en';
+
 // Angular 2
 import '@angular/platform-browser';
 import '@angular/platform-browser-dynamic';
